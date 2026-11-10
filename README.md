@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 ![david github metrics](./github-metrics.svg)
-![mildly interesting facts](./metrics.plugin.habits.facts.svg)
-![mildly interesting charts](./metrics.plugin.habits.charts.svg)
+![languages](./metrics.plugin.languages.svg)
+![isometric calendar](./metrics.plugin.isocalendar.svg)
